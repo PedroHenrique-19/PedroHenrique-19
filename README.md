@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PedroHenrique-19
+- 👋 Hi, I’m @PedroHenrique.dev
 - 👀 I’m interested in learn about the tech world.
 - 🌱 I’m currently learning python and cibersecurity.
 - 💞️ I’m looking to collaborate on projects.
